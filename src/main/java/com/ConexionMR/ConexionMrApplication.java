@@ -1,4 +1,4 @@
-package com.ConexionMR;
+package com.conexionMR;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

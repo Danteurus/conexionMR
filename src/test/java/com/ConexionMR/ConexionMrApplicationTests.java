@@ -1,4 +1,4 @@
-package com.ConexionMR;
+package com.conexionMR;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
